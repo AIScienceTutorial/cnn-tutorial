@@ -1,0 +1,12 @@
+name: imageml
+channels:
+  - default
+dependencies:
+  - python==3.7.*
+  - numpy==1.19.*
+  - pandas==1.*
+  - scikit-learn==0.23.*
+  - tensorflow==2.1.*
+  - matplotlib==3.*
+  - tqdm
+  - jupyterlab
