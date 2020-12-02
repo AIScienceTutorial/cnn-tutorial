@@ -23,4 +23,9 @@ conda env create --file environment.yml
 
 ### Running on Google Colab
 
-*TBD*
+You can also run these notebooks on Google Colaboratory, either by searching for `AIScienceTutorial` in their GitHub extension or directly using these links:
+
+- [Exercise 1: Keras](https://colab.research.google.com/github/AIScienceTutorial/cnn-tutorial/blob/main/exercise-1_keras.ipynb)
+- [Exercise 2: CNNs](https://colab.research.google.com/github/AIScienceTutorial/cnn-tutorial/blob/main/exercise-2_cnns.ipynb)
+
+Note that you may want to use a GPU for exercise 2, which you can change from the "Runtime->Change runtime type" menu.
